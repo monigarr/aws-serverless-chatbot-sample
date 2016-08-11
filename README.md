@@ -21,6 +21,30 @@ Example code for running a Slack chatbot using AWS Lambda and Amazon API Gateway
 16. Pick a trigger word for your Bot!
 17. In URL, put the URL created by your API Gateway Deployment
 
+# Requirements due by September 20th 2016
+1. http://awschatbot.devpost.com/?utm_source=Devpost+Weekly+Newsletter&utm_campaign=702526bbf5-Hacker_8_11_16&utm_medium=email&utm_term=0_294421ffd0-702526bbf5-224954713
+2. Slackbot that runs on AWS Lambda.
+2. SlackBot must use AWS Lambda and Amazon API Gateway. See our sample bot code for an example.
+3. SlackBot must Be a new or existing bot
+4. optional: Integrate Slack APIs, such as the Events API
+5. optional: Integrate other APIs, SDKs, and datasets as long as the developer is authorized to use them
+6. optional: Showcase natural language processing of chat conversations, use open source NLP libraries
+7. optional: Use additional AWS services
+8. optional: Be submitted to the Slack App Directory
+9. All code should function as depicted in the submitted video and text description 
+10. Submission must be in English 
+11. Be substantially different from any other app submitted by the same submitter/team/organization 
+12. Be the original work of the submitter, be solely owned by the submitter, and not violate the IP rights of any other person or entity
+
+
+# Submission Requirements
+1.Include a demonstration video of the bot in action.
+2. Include a brief explanation of what the bot does and what makes it unique 
+3. A way to access your bot for judging and testing 
+4. Include a link to your bot code on GitHub (this repo may be public or private – if private, access must be given in the testing instructions provided). GitHub code will be used only for bot review and testing. 
+5. Include all deployment files and testing instructions needed for testing your bot.
+
+
 #### Template code for Integration Request:
 ```
 ## convert HTML POST data or HTTP GET query string to JSON
